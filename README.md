@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Always optimizing—systems, habits, and plant growth 🌱
 
 ### Bio
-- 💎 Ph.D. Candidate in Chemical & Biological Eng., Seoul National University
+- 💎 Ph.D. Candidate in Chemical & Biological Engineering, Seoul National University
 - 🧪 Process Systems Engineering | Modeling | Optimization | RL | FDD
 - 🎓 B.S. (Honors), Chemical & Biomolecular Engineering, Yonsei University
