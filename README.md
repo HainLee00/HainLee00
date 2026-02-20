@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: hain.lee@snu.ac.kr
 - ⚡ Fun fact: I love plants🪴💫
+
+###Bio
+- 💎 Ph.D. Candidate in Chemical & Biological Eng., Seoul National Univ.
+- 🧪 Process Systems Eng. | Modeling | Optimization | FDD
+- 🎓 B.S. (Honors), Yonsei Univ.
