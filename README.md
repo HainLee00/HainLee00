@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ### Bio
 - 💎 Ph.D. Candidate in Chemical & Biological Eng., Seoul National University
-- 🧪 Process Systems Engineering | Modeling | Optimization | FDD
+- 🧪 Process Systems Engineering | Modeling | Optimization | RL | FDD
 - 🎓 B.S. (Honors), Chemical & Biomolecular Engineering, Yonsei University
