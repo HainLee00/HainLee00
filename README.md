@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning RL!
+- 📫 How to reach me: hain.lee@snu.ac.kr
 - ⚡ Fun fact: I love plants🪴💫
